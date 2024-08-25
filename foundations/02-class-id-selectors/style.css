@@ -1,0 +1,20 @@
+.odd_p {
+    color: black;
+    background-color: rgb(239, 176, 187);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#num2 {
+    color: blue;
+    font-size: 36px
+}
+
+.special_odd {
+    font-size: 24px;
+}
+
+#num4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
